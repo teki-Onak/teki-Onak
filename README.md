@@ -22,7 +22,7 @@ I enjoy understanding how computers work from the ground up, while also building
 ### 🎯 Goals
 - Grow into a **professional Software Engineer**  
 - Build projects that combine **low-level understanding** with **high-level applications**  
-- Contribute to open-source and share knowledge  
+- Master Ai 
 
 ---
 ⭐️ *"Learning by building, one project at a time."*
