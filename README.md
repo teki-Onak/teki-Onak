@@ -7,7 +7,7 @@ I enjoy understanding how computers work from the ground up, while also building
 
 ### 🔧 What I'm Learning
 - **Low-level Programming**: C, Assembly, Computer Architecture  
-- **Web Development**: HTML, CSS, JavaScript, React, Node.js  
+- **Web Development**: HTML, CSS, JavaScript, React, Node.js plus doing some RUST & GOlang
 - **Software Engineering Principles**  
 
 ---
@@ -23,12 +23,6 @@ I enjoy understanding how computers work from the ground up, while also building
 - Grow into a **professional Software Engineer**  
 - Build projects that combine **low-level understanding** with **high-level applications**  
 - Contribute to open-source and share knowledge  
-
----
-
-### 📫 Let's Connect
-- GitHub: [github.com/Charlesonak](https://github.com/Charlesonak)  
-- (Add LinkedIn, email, or portfolio later when ready)
 
 ---
 ⭐️ *"Learning by building, one project at a time."*
